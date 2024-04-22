@@ -1,4 +1,4 @@
-## <p align="center" font-weight='bold' >Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.<p/>
+## <p align="center" font-weight='bold' >Temperature check<p/>
 
 <img align="center" src="src/img/TemperatureCheckImg.png" alt=""/>
 
